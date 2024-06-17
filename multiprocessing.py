@@ -1,7 +1,7 @@
 import multiprocessing as mp
 import time
 import math
-
+import os
 
 result_a = []
 result_b = []
